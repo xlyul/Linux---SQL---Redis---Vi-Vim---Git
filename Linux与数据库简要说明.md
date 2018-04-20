@@ -279,6 +279,7 @@ n 重复上一个搜寻
 :map 快捷键 命令A
 
 ##### 注：当然，这些只是一些简单的命令，至于所有的快捷方式及命令，可以参见下图，这张图是从其他地方发现的，感觉特别有用，至于在哪儿发现额，我忘了，但是百度一下，你应该就会知道。
+![这里写图片描述](https://img-blog.csdn.net/2018042019491557?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTc3NTA0Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ## 数据库
 
