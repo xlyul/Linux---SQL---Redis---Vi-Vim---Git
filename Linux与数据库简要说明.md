@@ -87,7 +87,7 @@ Redis - High Speed Cache/NoSQL（= Not Only SQL）高速缓存服务
 
 压缩：gzip +文件名
 解压缩：gunzip +文件名
-一起归档：tar -cvf 指定文件名  +需归档文件名(*.txt即所有的txt格式文件）
+一起归档：tar -cvf 指定文件名  +需归档文件名(*.txt即所有的txt格式文件)
 解档： tar -xvf 指定文件名
 
 命令所在路径：which +命令
